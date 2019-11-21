@@ -1,6 +1,6 @@
 body
 {
-	background: blue;
+	background: url('background-blur.jpg');
 	background-size: cover;
 	font-family: Arial;
 }
